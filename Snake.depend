@@ -1,0 +1,8 @@
+# depslib dependency file v1.0
+1486130934 source:c:\users\mac\desktop\snake\main.cpp
+	<iostream>
+	<cstdlib>
+	<conio.h>
+	<time.h>
+	<windows.h>
+
